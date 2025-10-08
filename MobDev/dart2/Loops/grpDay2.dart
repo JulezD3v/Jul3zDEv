@@ -35,8 +35,9 @@ void main() {
   bool isLoggedIn = true;
   bool hasSession = false; // Set to false to demonstrate else block
 
+   // ignore: dead_code
    if (isLoggedIn && hasSession) {
-     print("User is logged in.");
+     print("User is logged in and has a session.");
   } else {
      print("User not logged in.");
 }
