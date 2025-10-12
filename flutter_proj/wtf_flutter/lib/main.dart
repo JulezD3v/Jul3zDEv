@@ -74,3 +74,8 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+// Breakout Room Exercise:
+// From the app we are working on, the room is expected to collaborate and identify widgets used within the project.
+// For each of the widget identified write a brief details about that widget
+// Discuss between the room participants, why are we separating our code into different files in the lib folder.
+// In addition, find out between yourselves if the project will still run if everything is located in the main.dart
