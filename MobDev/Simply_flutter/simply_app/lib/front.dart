@@ -29,7 +29,7 @@ class FrontPage extends StatelessWidget {
                 child: Column(
                   children: [
                     Text(
-                      'Happy Birthday Jul3z Dev 👽😎👽',
+                      'Happy Birthday Jul3z Dev!!',
                       style: const TextStyle(
                         fontSize: 26,
                         fontWeight: FontWeight.bold,

@@ -29,7 +29,7 @@ class MessagePage extends StatelessWidget {
                 child: Column(
                   children: [
                     Text(
-                      'Happy Birthday Jul3z Dev 👽😎👽',
+                      'Happy Birthday Jul3z Dev!!!',
                       style: const TextStyle(
                         fontSize: 26,
                         fontWeight: FontWeight.bold,
@@ -40,7 +40,7 @@ class MessagePage extends StatelessWidget {
                     const SizedBox(height: 10),
                     const Text(
                       '''
-✨Happy Birthday, Legend✨
+  Happy Birthday, Legend
 
 Today isn’t just another day — it’s your reminder that you’ve made it 
 through storms others wouldn’t survive. You’ve grown, evolved, and 

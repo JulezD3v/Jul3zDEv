@@ -61,7 +61,7 @@ class _HomeScreenState extends State<HomeScreen>
               ],
             ),
           ),
-          // Icons always visible at the bottom
+          
           Align(
             alignment: Alignment.bottomCenter,
             child: Container(
